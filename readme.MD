@@ -1,0 +1,2 @@
+- Back to the basics
+  - lets write some assembly
